@@ -1,0 +1,19 @@
+{
+  "name": "FrontowyUWM",
+  "version": "0.0.1",
+  "description": "Front-end course for our university",
+  "main": "index.js",
+  "authors": {
+    "name": "Grzegorz",
+    "email": "grzegorzch1813@gmail.com"
+  },
+  "repository": "/FrontowyUWM",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
+}
